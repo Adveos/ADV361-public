@@ -7,7 +7,7 @@ Welcome to the ADV361-EVK-1 GitHub Repository containing example MATLAB code and
 **Company:** ADVEOS Microelectronic Systems  
 **Address:** Leof. Mesogeion 265, Neo Psichiko,  
 154 51, Athens, Greece  
-**Website:** http://www.adveos.com
+**Website:** https://www.adveos.com
 **Product:** ADV361-EVK-1
 **Abstract:** ADV361-EVK-1 is an evaluation kit containing an ADV361 locator, and an ADV361-T tag with Bluetooth Low Energy Direction Finding technology. For a detailed overview and specifications, please refer to the datasheet included in this repository.
 
